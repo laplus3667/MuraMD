@@ -1,8 +1,8 @@
 # MuraMD
 
 Obsidian Website:
-- MuraMD : publish.obsidian.md/muramd
-- MuraZen: publish.obsidian.md/mura-zen
+- [MuraMD](publish.obsidian.md/muramd)  
+- [MuraZen](publish.obsidian.md/mura-zen)
 
 
 Terminology:
