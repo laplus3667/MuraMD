@@ -5,4 +5,6 @@ Obsidian Website:
 - MuraZen: publish.obsidian.md/mura-zen
 
 
-[[01.01 Bayes Risk]] 
+Terminology:
+- [[01.01 Bayes Risk]] 
+
