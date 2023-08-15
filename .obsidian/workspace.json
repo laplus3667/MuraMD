@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f514537f4578e59d",
+        "id": "84f6f991ce7f1b42",
         "type": "tabs",
         "children": [
           {
-            "id": "3451e8837fb93455",
+            "id": "53ae4fadd1788f13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,9 +147,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3451e8837fb93455",
+  "active": "53ae4fadd1788f13",
   "lastOpenFiles": [
+    "publish.obsidian.md/mura-zen.md",
+    "README.md",
     "01.01 Bayes Risk.md",
-    "README.md"
+    "publish.obsidian.md/muramd.md",
+    "publish.obsidian.md",
+    "MuraMD/README.md",
+    "MuraMD/01.01 Bayes Risk.md",
+    "MuraMD"
   ]
 }
