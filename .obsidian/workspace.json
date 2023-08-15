@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5590185498735427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +160,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "53ae4fadd1788f13",
+  "active": "5590185498735427",
   "lastOpenFiles": [
-    "publish.obsidian.md/mura-zen.md",
+    "01.01 DP-SGD 數學公式解析.md",
+    "02.01 統計偵探：貝式風險 Bayes Risk 探討.md",
     "README.md",
-    "01.01 Bayes Risk.md",
+    "publish.obsidian.md/mura-zen.md",
     "publish.obsidian.md/muramd.md",
     "publish.obsidian.md",
     "MuraMD/README.md",
